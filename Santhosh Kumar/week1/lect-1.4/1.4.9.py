@@ -2,3 +2,6 @@
 # ```
 a="GOKUL"
 print(a)
+
+# output:
+# GOKUL
