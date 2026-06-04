@@ -17,9 +17,10 @@ OUTPUT: 'bcdef'
 
 # solution:
 a="abcdefghijklmnopqrstuvwxyz"
-input="santhosh"
-mt=""
+input = "santhosh"
+mt = ""
+
 for i in input:
-    mt+=a[a.index(i)+1]
+    mt+= a[a.index(i)+1]
 print(mt)
 

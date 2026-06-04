@@ -4,7 +4,7 @@ age=19
 
 if age>18:
     print("major")
-if age<13:
+if age<18:
     print("minor")
 else:
     print("none")

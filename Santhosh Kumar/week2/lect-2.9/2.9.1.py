@@ -20,16 +20,15 @@ mark=int(input("Enter the mark:"))
 
 if mark<0 or mark >100:
     print("invalid")
-elif mark>100:
-    print("A")
+
 elif mark>90:
-    print("B")
+    print("A")
 elif mark >80:
-    print("c")
+    print("B")
 elif mark>70:
-    print("D")
+    print("C")
 elif mark>60:
-    print("e")
+    print("D")
 
 else:
     print("invalid ")
