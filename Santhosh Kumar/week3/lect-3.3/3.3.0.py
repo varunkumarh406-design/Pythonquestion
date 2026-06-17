@@ -6,6 +6,7 @@ input_string = input("Enter a string: ")
 output_string = input_string[1:-1]
 print(output_string)
 
-#hello world
+hello world
+#hello j
 
 #print // elloworl
