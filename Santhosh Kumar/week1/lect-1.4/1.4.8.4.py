@@ -7,3 +7,7 @@ y=int(x)
 print(a)
 print(type(x))
 print(type(y))
+#solution 
+# x is string and y is integer
+#b = 21 
+#

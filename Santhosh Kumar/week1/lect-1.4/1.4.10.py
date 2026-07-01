@@ -8,3 +8,8 @@
 
 number=int(input("Enter the number:"))
 print(number**2)
+
+#solution
+# Enter the number:5 
+# 25
+#1st it takes the input from user and then it prints the square of the number.

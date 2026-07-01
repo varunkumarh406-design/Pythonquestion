@@ -5,4 +5,4 @@ print(n)
 # ```
 
 # output: 
-#    5
+# invalid  (becouse int() function can not convert float to int)

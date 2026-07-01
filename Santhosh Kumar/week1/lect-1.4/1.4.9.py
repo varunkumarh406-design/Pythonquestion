@@ -5,3 +5,7 @@ print(a)
 
 # output:
 # GOKUL
+
+#solution 
+# If the user enters GOKUL, the output will be
+#gokul

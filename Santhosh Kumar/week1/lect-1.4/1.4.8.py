@@ -3,3 +3,7 @@
 # print(user)
 
 print(input(("Enter the name :")))
+
+#solution
+# Enter the name :varun
+# varun

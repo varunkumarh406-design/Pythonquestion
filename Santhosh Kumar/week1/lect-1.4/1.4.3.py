@@ -7,3 +7,8 @@
 # print(a+b) 
 # print(a*b)
 # ```
+#solution
+#10
+#20
+#30
+#200
