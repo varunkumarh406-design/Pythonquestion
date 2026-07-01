@@ -7,3 +7,7 @@
 
 # ouput:
 # hello 12 24.5
+
+#answer:
+# Yes, the code is valid.
+# becouse we just printing that's it

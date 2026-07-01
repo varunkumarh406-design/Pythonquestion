@@ -6,3 +6,6 @@ print("hello","world")
 
 # Answer:
 # hello world
+
+# solution 
+# first i5t will print hello and world with a space in between. The default separator is a space.

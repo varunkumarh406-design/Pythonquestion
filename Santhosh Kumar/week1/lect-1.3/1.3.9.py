@@ -4,5 +4,9 @@
 # he is "The President"
 # ```
 
+#print("it's sunday")
+#print('he is "the president" ')
+
+#answer:
 print("it's sunday")
 print('he is "the president" ')

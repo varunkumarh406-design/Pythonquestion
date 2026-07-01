@@ -2,3 +2,6 @@
 # ```
 # print("hel",,,"eorld")
 # ```
+
+# Answer:
+# error    //  becouse multiple (,,,,)
