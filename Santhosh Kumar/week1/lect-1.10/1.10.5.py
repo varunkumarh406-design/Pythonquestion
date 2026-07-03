@@ -11,3 +11,14 @@ print(False or True)
 print(not(True))
 print(not(False))
 
+#sOLUTION
+#True
+#False
+#False
+#False
+#True
+#True
+#False
+#True
+#False
+#True

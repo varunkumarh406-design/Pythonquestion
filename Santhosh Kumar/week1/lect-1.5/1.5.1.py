@@ -3,4 +3,5 @@
 #     ```
 #     n=input()
 #     ```
-
+#solution
+#string

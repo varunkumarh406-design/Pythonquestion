@@ -4,3 +4,9 @@ x=int(input())
 
 # What happens if the input is 1.23 ? Execute and observe the output. Why do you think this is happening?
 # error
+
+#solution
+#enter input() 1.23
+#Traceback (most recent call last):
+#input() reads only string.
+#int() can only convert whole numbers

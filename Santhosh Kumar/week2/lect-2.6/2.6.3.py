@@ -18,3 +18,11 @@ n="ab@*#123"
 
 print(m.isalnum())
 print(n.isalnum())
+
+
+#True
+#False
+#True
+#False
+#True
+#False

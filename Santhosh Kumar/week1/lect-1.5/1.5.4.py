@@ -3,3 +3,8 @@
 #     n=input()
 #     n=int(input())
 #     ```
+
+
+#solution
+#  takes input as string
+# takes input as integer

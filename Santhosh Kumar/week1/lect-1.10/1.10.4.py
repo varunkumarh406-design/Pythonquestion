@@ -10,3 +10,13 @@ print(7>=3)
 print(7!=3) 
 print(a=3)
 
+#SOLUTION
+#True
+#False
+#False
+#True
+#False
+#False
+#True
+#True
+#SyntaxError

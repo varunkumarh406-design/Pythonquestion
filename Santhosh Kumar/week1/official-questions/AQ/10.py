@@ -6,3 +6,5 @@ x = "santhosh"
 y = "Vicky"
 print(len(x) + len(y) == len(x+y))
 
+#solutiion
+#true

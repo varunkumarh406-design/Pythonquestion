@@ -12,3 +12,12 @@ else:
 
 
 
+#solution
+# Enter a number: 20
+# multiple of 10
+
+#Enter a number: 24
+# neither a multiple of 5 nor a multiple of 10
+
+# Enter a number: 25
+# multiple of 5 and not a multiple of 10

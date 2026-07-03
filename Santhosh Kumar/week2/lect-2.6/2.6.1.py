@@ -17,3 +17,16 @@ print(x.title())
 # swap the case of the string
 
 print(x.swapcase())
+
+
+
+
+
+#python string methods
+#PYTHON STRING METHODS
+#Python string methods
+#Python String Methods
+#pYThon sTriNG metHODs
+
+
+

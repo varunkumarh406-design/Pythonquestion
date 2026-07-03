@@ -9,3 +9,16 @@ print(19%10)
 print(21%9)
 print(23%7)
 print(50%7)
+
+
+#SOLUTION
+reminder
+1
+0
+1
+1
+3
+9
+3
+2
+1

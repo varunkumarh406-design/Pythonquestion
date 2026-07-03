@@ -6,3 +6,9 @@ print(n)
 n=n/2
 print(type(n))
 print(n)
+
+#solution
+#<class 'int'>
+#10
+#<class 'float'>
+#5.0

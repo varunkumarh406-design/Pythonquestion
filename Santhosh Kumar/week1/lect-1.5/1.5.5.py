@@ -2,4 +2,8 @@
 #     ```
 #     hello, Gokul , How are you?
 #    
-print("hello,","Gokul","," ,"How are you?")
+#rint("hello,","Gokul","," ,"How are you?")
+
+#solution
+name = input("Enter your name: ")
+print("hello,", name, ", How are you?")

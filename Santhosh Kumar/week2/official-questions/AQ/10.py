@@ -2,8 +2,16 @@
 
 # Accept an integer x as input from the user. If the number is even, print even . If the number is odd, print odd.
 
-# x=int(input("Enter the nuymber:"))
-# if x % 2==0:
-#     print("Even")
-# else:
-#     print("odd")
+x=int(input("Enter the nuymber:"))
+if x % 2==0:
+    print("Even")
+else:
+    print("odd")
+
+
+
+#solution
+#Enter the nuymber:3
+#odd
+#Enter the nuymber:6
+#Even

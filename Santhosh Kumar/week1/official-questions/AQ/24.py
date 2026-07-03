@@ -18,7 +18,12 @@ print(fir,sec,thir)
 # print(fir+sec+thir)
 
 
-
+#solution
+#input 256
+#2
+#5
+#6
+# 2 5 6 
 
 
 

@@ -7,3 +7,10 @@ if a + b > c and a + c > b and b + c > a:
     print(True)
 else:
     print(False)
+
+
+#solution
+#Enter three numbers: 3 4 5
+#True
+#Enter three numbers: 2 3 5 
+#False

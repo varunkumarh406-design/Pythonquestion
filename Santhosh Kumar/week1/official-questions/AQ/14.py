@@ -4,3 +4,7 @@
 
 num=7**100
 print(len(str(num)))
+
+#SOLUTION
+#85 CONVERTS number to strings 
+#then count

@@ -7,3 +7,12 @@
 # d) $a=10
 # A b=10
 # print(Ab)
+
+
+#$solution
+# a) invalid
+# b) invalid
+#_a = 10
+#print(_a)     valid    can start wqith underscore
+# d) invalid
+# A b=10  invalid becouse space

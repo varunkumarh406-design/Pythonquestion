@@ -6,3 +6,10 @@
 # outcome of a coin toss
 # outcome of a tennis match
 # nodding your head
+
+#SOLUTION
+#YES OR NO
+#ON OFF
+# H T
+#WIN LOSE
+#YES NO

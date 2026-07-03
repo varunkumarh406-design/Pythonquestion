@@ -17,3 +17,15 @@ elif x == y or y == z or x == z:
     print('isosceles')
 else:
     print('scalene')
+
+
+
+#soluyion
+#5
+#5
+#
+#equilateral
+#4
+#8
+#4
+#isosceles

@@ -14,3 +14,13 @@ birth_date = datetime.date(year, month, day)
 day_of_week = birth_date.strftime("%A")
 
 print("You were born on a", day_of_week)
+
+
+#solution
+import calendar
+year = int(input("Enter birth year (YYYY): "))
+month = int(input("Enter birth month (MM): "))
+day = int(input("Enter birth day (DD): "))
+day_index = calendar.weekday(year, month, day)
+day_name = calendar.day_name[day_index]
+print("You were born on a", day_name)

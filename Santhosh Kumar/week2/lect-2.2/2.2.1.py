@@ -19,3 +19,13 @@
 # 5. what is the difference between list and dictionary?
 
 # list is ordered and dictionary is unordered
+
+
+
+
+
+#solution
+# 1 using #  we can comment a line in python
+#  this is not a true comment but it can be used as a temporary comment
+# 2 in list elements can be changed ,tupple cannot be changed elements once it was created
+#

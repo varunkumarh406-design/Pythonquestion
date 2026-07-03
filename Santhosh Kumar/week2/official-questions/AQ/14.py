@@ -9,3 +9,12 @@ if a < b < c < d:
     print("Ascending order")
 else:
     print("Not in ascending order")
+
+
+#solution
+#Enter four distinct integers separated by space: 2 3 5 6
+#Ascending order
+
+
+#Enter four distinct integers separated by space: 6 5 4 1
+#Not in ascending order

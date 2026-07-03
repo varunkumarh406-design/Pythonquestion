@@ -13,3 +13,13 @@ print(s[1:5])
 print(s-t)
 print(s+t)
 #     ```
+
+#sOLUTION
+#c
+#o
+#f
+#3456
+#off
+#offe
+#TypeError
+#coffeebread

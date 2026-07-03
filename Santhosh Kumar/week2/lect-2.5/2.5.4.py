@@ -8,3 +8,7 @@ print(x)
 print(y)
 print(z)
 print(a)
+
+
+#solution
+#x="This is a string"

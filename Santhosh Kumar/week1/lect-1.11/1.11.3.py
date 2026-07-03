@@ -18,3 +18,15 @@ print(e)
 print(f)
 print(d+e+f)
 # ```
+
+#solution 
+#<class 'str'>
+#0
+#7
+#4
+#074
+#136
+#1
+#2
+#3
+#6

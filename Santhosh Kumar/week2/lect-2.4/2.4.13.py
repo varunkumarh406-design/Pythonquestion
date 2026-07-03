@@ -12,3 +12,10 @@ count+=2
 print(count)
 count/=2
 print(count)
+
+
+#SOLUTION
+#16
+#6
+#8
+#4.0

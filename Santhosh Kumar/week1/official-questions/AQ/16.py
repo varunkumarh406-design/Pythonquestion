@@ -5,3 +5,9 @@
 
 x=int(input("enter a positive number:"))
 print(x+x+x+x+x+x+x+x+x+x)
+
+
+
+#sOLUTION
+#enter a positive number:5
+#50 

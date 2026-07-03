@@ -8,3 +8,7 @@ print(s*some_string)
 print(len(s*some_string))
 
 
+#solution
+#8
+#santhoshsanthoshsanthoshsanthoshsanthoshsanthoshsanthoshsanthosh
+#64

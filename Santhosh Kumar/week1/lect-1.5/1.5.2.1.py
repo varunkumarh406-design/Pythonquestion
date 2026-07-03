@@ -3,3 +3,8 @@
 n=int(input())
 print(n*n)
 # #     ```
+
+
+#solution
+#input 3
+#output 9

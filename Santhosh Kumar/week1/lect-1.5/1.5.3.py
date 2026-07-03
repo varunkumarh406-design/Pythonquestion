@@ -2,3 +2,7 @@
 #     ```
 n=input()
 print("HEllo",n)
+
+
+#solution
+# Hello gokul

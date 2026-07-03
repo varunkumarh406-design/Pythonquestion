@@ -5,7 +5,12 @@
 
 student = 95
 
+
 if student >=90 and student <=100:
     print("True")
 else:
     print("False")
+
+
+    #solution
+    #true 90>  95  <100

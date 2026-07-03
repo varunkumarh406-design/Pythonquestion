@@ -8,9 +8,30 @@
 # Print the value of x after each operation.
 
 x=10
-x+=3
-x-=4
-x*=2
+#x+=3
+#x-=4
+#x*=2
 print(x)
 x//=3
+print(x)
+
+
+
+
+#solution
+#x=10
+#13  +operater
+#9   -
+#18  *
+#6.0  //
+# i used separate print statements to print the value of x after each operation.
+
+x = 10
+x += 3
+print(x)
+x -= 4
+print(x)
+x *= 2
+print(x)
+x /= 3
 print(x)

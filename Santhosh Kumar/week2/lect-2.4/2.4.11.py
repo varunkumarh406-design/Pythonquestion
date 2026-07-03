@@ -4,3 +4,8 @@ x,y=1,2
 print(x,y)
 x,y=y,x
 print(x,y)
+
+
+#solution
+#1 2
+#2 1

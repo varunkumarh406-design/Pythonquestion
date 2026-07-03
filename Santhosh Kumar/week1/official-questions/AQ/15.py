@@ -4,3 +4,8 @@
 
 word=input("Enter a word: ")
 print(word[0]==word[-1])
+
+
+#SOLUTION 
+#varun        false
+#malayalam    true
