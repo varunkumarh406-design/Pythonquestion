@@ -2,7 +2,7 @@
 
 # first occurrence of vowels .
 
-s="program"
+s=input()
 vowel="aeiouAEIOU"
 res=""
 

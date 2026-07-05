@@ -13,3 +13,13 @@ for i in range(1,101,2):
     print(i)
 
 
+"""#solution
+n = 1
+total = 0
+
+while n <= 100:
+    print(n)
+    total += n
+    n += 2
+
+print("Sum =", total)"""

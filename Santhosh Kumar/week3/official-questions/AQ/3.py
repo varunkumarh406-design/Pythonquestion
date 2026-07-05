@@ -17,3 +17,9 @@ for i in range (1,n+1):#12345
 print(fact)
 print(total)
 print(avg)
+
+#solution
+"""ENter the number :5
+120
+153
+30.6"""
