@@ -8,3 +8,8 @@ print(empty)
 
 full=x.count ("|0|")
 print(full)
+
+#solution
+"""3
+2
+3"""

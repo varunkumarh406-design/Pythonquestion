@@ -3,10 +3,23 @@
 # if India has played five matches with the following results - 'WLWWWL' - then it has a three-match streak. 
 # Write a code to accept the result-sequence as input and find the longest streak in it.
 
-number = "WLWWWL"
+"""number = "WLWWWL"
 a=len(number)
 
 for i in range(a,0,-1):
     if i*"W" in number:
         print(i)
+        break
+"""
+
+
+
+
+number = input("Enter the result sequence: ")
+
+a = len(number)
+
+for i in range(a, 0, -1):
+    if i * "W" in number:
+        print("Longest streak:", i)
         break

@@ -15,7 +15,7 @@
 
 # If the number is not divisible by any of ( 3 , 5 and 10) , just print the number as it is.
 
-for i in range(5,51):
+for i in range(5,100):
 
     if i % 3==0 and i % 5==0 and i % 10==0:
         break

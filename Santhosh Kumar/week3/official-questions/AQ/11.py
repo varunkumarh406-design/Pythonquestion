@@ -8,3 +8,12 @@ for i in range(5,0,-1):
         if not j==1:
          lop=" "+str(j)+lop
     print(str(fop+lop[1:]).center(5*4-1))
+
+
+
+#solution
+""" 5 4 3 2 1 2 3 4 5 
+   4 3 2 1 2 3 4   
+     3 2 1 2 3     
+       2 1 2       
+         1       """

@@ -6,3 +6,6 @@ op=""
 for i in range(len(s)-1,-1,-1): 
     op+=s[i]
 print(op)    
+
+#solution
+#olleh 

@@ -3,16 +3,27 @@
 
 # occurring 5 times consecutively in it, otherwise print False.
 
-s="hellooooghu"
+"""s="hellooooghu"
 alpha="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 for i in alpha:
-    # print(i)
+    print(i)
 
     if i*5 in s:
         print("true")
         break
 else:
-    print("false")
+    print("false")"""
         
          
+#solution
+s = input("Enter a string of length 10: ")
+
+alpha = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+
+for i in alpha:
+    if i * 5 in s:
+        print(True)
+        break
+else:
+    print(False)

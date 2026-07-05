@@ -11,3 +11,8 @@ fop=""
 for s in a:
     fop+= s[0].upper()+" "
 print(fop)
+
+
+#solution
+"""Enter the Name :varun kumar h
+V K H """
